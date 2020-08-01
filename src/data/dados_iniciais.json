@@ -1,0 +1,367 @@
+{
+  "categorias": [
+    {
+      "titulo": "Full On Morning",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "O melhor do trance em todas as vertentes",
+          "url": "https://www.youtube.com/watch?v=fD6ccxs5RJY"
+        },
+        {
+          "titulo": "System Nipel and Electra - Game On (Ananda Shake Rmx)",
+          "url": "https://soundcloud.com/doruk/06-system-nipel-and-electra-game-on-ananda-shake-rmx-dmm?fbclid=IwAR2JCGkXyWP1yFfO9fI-q92Jc8hsiHORJKb5eprkKgnR1r9LfbgShm7fd-E"
+        },
+        {
+          "titulo": "Ananda Shake & No Comment - Carnaval",
+          "url": "https://soundcloud.com/ananda-shake/ananda-shake-no-comment-carnaval-free-download"
+        },
+        {
+          "titulo": "Vibe Tribe - Back To The Roots",
+          "url": "https://soundcloud.com/vibetribe/vibe-tribe-back-to-the-roots-out-soon-1st-july-2019"
+        },
+        {
+          "titulo": "Vibe Tribe - Incore",
+          "url": "https://soundcloud.com/vibetribe/sets/vibe-tribe-destination"
+        },
+        {
+          "titulo": "Electro Sun Vs. Indra - Daily Life",
+          "url": "https://soundcloud.com/electro-sun/electro-sun-vs-indra-daily-life"
+        },
+        {
+          "titulo": "Electro Sun - Falling Free",
+          "url": "https://soundcloud.com/electro-sun/falling-free"
+        },
+        {
+          "titulo": "System Nipel Tokyo Express [New EP] Previews",
+          "url": "https://soundcloud.com/search?q=System%20Nipel%20%26%20Ziki%20-%20Tokyo%20Express"
+        },
+        {
+          "titulo": "System Nipel - Artifacts",
+          "url": "https://soundcloud.com/system-nipel/system-nipel-artifacts-demo"
+        },
+        {
+          "titulo": "DigiCult vs DNA - Rite Of Passage",
+          "url": "https://soundcloud.com/digicult/digicult-vs-dna-rite-of?fbclid=IwAR1CCkPwTbsBBCaG5siDTofY4gpOta7U7WC5NP0zwDFFr-vyAw5hzeqPUd4"
+        } 
+        ,
+        {
+          "titulo": "MYRAH - Melodic Scientist",
+          "url": "https://www.youtube.com/watch?v=ccSykzVodak&list=PLFn696gJR9aV1nudNhFnWJusNtXrUVivB&pbjreload=101"
+        },
+        {
+          "titulo": "MYRAH - Dark Sun",
+          "url": "https://www.youtube.com/watch?v=mMmL2usFC2A&list=PLFn696gJR9aV1nudNhFnWJusNtXrUVivB&index=4"
+        }
+        ,
+        {
+          "titulo": "Indra - Come to India",
+          "url": "https://www.youtube.com/watch?v=tvpEj_qXlVk"
+        },
+        {
+          "titulo": "Indra - Mantra",
+          "url": "https://www.youtube.com/watch?v=s0k8QXZoXZk"
+        }           
+      ]
+    },
+    {
+      "titulo": "Full On Night",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Ingrained Instincts - Invent the Future",
+          "url": "https://www.youtube.com/watch?v=fIu6bE-elJU"
+        },
+        {
+          "titulo": "Fungus Funk, Kabayun & Ingrained Instincts - Future Kids",
+          "url": "https://www.youtube.com/watch?v=nV0uoA0O__g"
+        },
+        {
+          "titulo": "Uka Uka - Boom Bhai",
+          "url": "https://www.youtube.com/watch?v=7_1OPyJGdfs&list=PLY28-gdUDu3bW__2BAgax10XqLOcAzyQN"
+        },
+        {
+          "titulo": "Uka Uka - Kali",
+          "url": "https://www.youtube.com/watch?v=pzxSVwNicGY&list=PLY28-gdUDu3bW__2BAgax10XqLOcAzyQN&index=7"
+        }, 
+        {
+          "titulo": "Ajja - Bazinga",
+          "url": "https://www.youtube.com/watch?v=iAZ0y8kOY8k&list=PL8sg-hAtsrtYeR-Ky0cRT_AWMonsbgExj"
+        }, 
+        {
+          "titulo": "Avalon & Ajja - Vision Serpent",
+          "url": "https://www.youtube.com/watch?v=WedNAPe2l80"
+        },
+        {
+          "titulo": "Yab Yum - Nocturnal Emissions",
+          "url": "https://www.youtube.com/watch?v=SpQIRIOiTwM&list=PLgIuiS2XJ70exO-YzbWzn-nJD7RTi_TWu"
+        },
+        {
+          "titulo": "Yab Yum - Earthquake",
+          "url": "https://www.youtube.com/watch?v=zW8Kwr3xQsE&list=PLgIuiS2XJ70exO-YzbWzn-nJD7RTi_TWu&index=3"
+        },
+        {
+          "titulo": "Yabba Dabba - Pineal Nerds",
+          "url": "https://www.youtube.com/watch?v=C0BmxvsGoe0"
+        },
+        {
+          "titulo": "Yabba Dabba & Balliou - Bedrock Babylon",
+          "url": "https://www.youtube.com/watch?v=4OWZdmznLeA&list=PLhNmeVZpdBuXR_Cmz4WJLuK21nFHDpCK9"
+        },
+        {
+          "titulo": "Babagoon - Uvinha Hash",
+          "url": "https://www.youtube.com/watch?v=cXDB1sFG2HE"
+        },
+        {
+          "titulo": "Babagoon - Tropical Night",
+          "url": "https://www.youtube.com/watch?v=pC08Qa52lh8"
+        },
+        {
+          "titulo": "Dj Bocara @ Mundo de Oz 10 Ano",
+          "url": "https://www.youtube.com/watch?v=i62udShaN2M"
+        },
+        {
+          "titulo": "Dj Bocara @ Gaia Connection 2019",
+          "url": "https://www.youtube.com/watch?v=Iju0Q3MyAZw"
+        }
+      ]
+    },
+    {
+      "titulo": "Forest",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "MUBALI Parvati Records Series Vol 11 30 04 2016",
+          "url": "https://www.youtube.com/watch?v=lOOxz744ELQ"
+        },
+        {
+          "titulo": "Ectogasmics & Mubali - Apocalypsis",
+          "url": "https://www.youtube.com/watch?v=pJhWfPXSpuo&list=PLtg9IYn9a3Zp9XrKhYlcedRYk788ffVZy"
+        },
+        {
+          "titulo": "Elowinz - Granjurema",
+          "url": "https://www.youtube.com/watch?v=IlI80bU8svk"
+        },
+        {
+          "titulo": "Elowinz - Yemanjah",
+          "url": "https://www.youtube.com/watch?v=hD66GiCaVxE&list=PLafMIEvJ9vChnBQSPDWFZBB4oStqs1DhE"
+        },
+        {
+          "titulo": "NOCTILUS - Everglade lifeforms",
+          "url": "https://www.youtube.com/watch?v=NRIhZiGZGPU"
+        },
+        {
+          "titulo": "Noctilus & Mubali - Noctali",
+          "url": "https://www.youtube.com/watch?v=lbUEWv5lB3o"
+        },
+        {
+          "titulo": "Derango - Confusion is Next",
+          "url": "https://www.youtube.com/watch?v=sspp8YfUceM"
+        },
+        {
+          "titulo": "Derango - Interstellar Lagoon",
+          "url": "https://www.youtube.com/watch?v=P8Qbt0GIQSo&list=PLWewCOVos4Ge4GVg5lfyslkJeFhVoFwRG"
+        },
+        {
+          "titulo": "Elowinz & Farebi Jalebi - Zorkmorking",
+          "url": "https://www.youtube.com/watch?v=9iLMOy7cM1I"
+        },
+        {
+          "titulo": "Farebi Jalebi - SyZyGy",
+          "url": "https://www.youtube.com/watch?v=gvgXRsl0m_k&list=RDEMqpE5wrt-LyPJYtQz_iVqgQ&start_radio=1"
+        },
+        {
+          "titulo": "Kaayaas & Crystal Mantis - Obsidian Circle",
+          "url": "https://www.youtube.com/watch?v=HJs6vrwfbrE"
+        },
+        {
+          "titulo": "Kaayaas - Forêt Profonde",
+          "url": "https://www.youtube.com/watch?v=D8FU_GDS9X0&list=PLY5qfgztg7jSfh1BZ7XGaGZuYY8e3BN9-"
+        }
+      ]
+    },
+    {
+      "titulo": "Psycore",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "TZU JAN - Зеркало, Serkalo(210) \\ VA Mysterium Coniunctionis \\ (Biomekanik Master)",
+          "url": "https://soundcloud.com/voodoohoodoomusic/tzu-jan-zerkalo-serkalo-out-soon-on-voodoo-hoodoo-rec?fbclid=IwAR0fOu4OzI5JfZGiazgkdMaPcm4dxu_Fts8EuBr_313Fwh4CR7UwynimabM"
+        },
+        {
+          "titulo": "Azgaja Vs Tzu ~ Jan - Dru - Wi - Dies - 273bpm",
+          "url": "https://soundcloud.com/azgaja/azgaja-vs-tzu-jan-dru-wi-dies"
+        },
+        {
+          "titulo": "Alpscore VS Infra - Contra Naturam",
+          "url": "https://soundcloud.com/voodoohoodoomusic/alpscore-vs-infra-contra-naturam-210?fbclid=IwAR08yZkr0T_82YG01UNXIbfzaRVr1RsNNCBUk663EJCiGg7QperPCdggP-Q"
+        },
+        {
+          "titulo": "AlpsCore - No Rescue [200]",
+          "url": "https://soundcloud.com/alpscore/alpscore-no-rescue-200"
+        }
+        ,
+        {
+          "titulo": "AlpsCore - Wolvesland [200]",
+          "url": "https://soundcloud.com/alpscore/alpscore-wolvesland-200bpm"
+        },
+        {
+          "titulo": "Plankton - Plankton - Devil Instinct ",
+          "url": "https://soundcloud.com/sacred-sound-1/16-plankton-devil-instinct-325-450-522-master?fbclid=IwAR38jv1i5pBArKBUW1fjY4yayNyH8N2catxjJYSH-VURnB3FYeQ46cRDZZY"
+        },
+        {
+          "titulo": "Plankton - Plankton - Abstract Poetry ",
+          "url": "https://soundcloud.com/dark-plankton/plankton-abstract-poetry"
+        },
+        {
+          "titulo": "!Luuli - Protect Innocence",
+          "url": "https://soundcloud.com/luuli/protect-innocence?fbclid=IwAR0mN5M6zge9gzg-XKJA6O6EhRGYTOEE_Uq6OqNSO4mlFuDr70yJ24NlWXk"
+        },
+        {
+          "titulo": "!luuli Y Squee - Open Eyed Zone Out",
+          "url": "https://soundcloud.com/luuli/luuli-y-squee-open-eyed-zone-out"
+        },
+        {
+          "titulo": "El Mariachi Que No Conoce La Pasión - Fractal Void vs Arkhos",
+          "url": "https://soundcloud.com/fractal_void/el-mariachi-que-no-conoce-la-pasion-200-fractal-void-vs-arkhos"
+        },
+        {
+          "titulo": "Fractal Void vs Arkhos vs Kokopelli - Human Age",
+          "url": "https://soundcloud.com/fractal_void/human-age-210-fractal-void-vs-arkhos-vs-kokopelli"
+        },
+        {
+          "titulo": "Muktar - Reverse The Humanity",
+          "url": "https://soundcloud.com/mukhtarofficial/reverse-the-humanity"
+        },
+        {
+          "titulo": "Mukhtar & Black Phillip - Whipped To Another Dimension",
+          "url": "https://soundcloud.com/mukhtarofficial/mukhtar-black-phillip-whipped-to-another-dimension"
+        },
+        {
+          "titulo": "Oblium - The Sounds Around You Are Converted Into Energy",
+          "url": "https://soundcloud.com/oblium/the-sounds-around-you-are-converted-into-energy-unreleased"
+        },
+        {
+          "titulo": "Oblium - Una Forza Negativa, Rafforza Quella Positiva",
+          "url": "https://soundcloud.com/oblium/una-forza-negativa-rafforza-quella-positiva"
+        }
+      ]
+    },
+    {
+      "titulo": "Prog OffBeat",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Mark Brenton & Hauul - Beyond Words",
+          "url": "https://soundcloud.com/markbrenton/beyond-words"
+        },
+        {
+          "titulo": "Sasha Sloan - Runaway (Ghost Rider Remix)",
+          "url": "https://soundcloud.com/ghostrider_mag/sasha-sloan-runaway-ghost-rider-remix-free-download"
+        },
+        {
+          "titulo": "Krama - Raise the Banners",
+          "url": "https://soundcloud.com/krama/raise-the-banners-new-ep-2014-demo"
+        },
+        {
+          "titulo": "Krama - 100.000 Facebook Likes OldSchool Set",
+          "url": "https://soundcloud.com/krama/100000-facebook-likes-oldschool-set"
+        },
+        {
+          "titulo": "Metronome - Ranji & Metronome - Down The Road",
+          "url": "https://soundcloud.com/metronomemusic/ranji-metronome-down-the-road"
+        },
+        {
+          "titulo": "Metronome - Until We Go Down (Metronome Tribute/Remix)",
+          "url": "https://soundcloud.com/metronomemusic/until-we-go-down"
+        },
+        {
+          "titulo": "O.T.B & Flowjob - Copenhagen Knights",
+          "url": "https://soundcloud.com/otbizzle/o-t-b-flowjob-copenhagen"
+        },
+        {
+          "titulo": "Flowjob - 10000 Smiles Away",
+          "url": "https://soundcloud.com/flowjob/10000-smiles-away"
+        },
+        {
+          "titulo": "Audiomatic - Your Energy",
+          "url": "https://soundcloud.com/benniaudiomatic/your-energy-1?fbclid=IwAR0XETlnoHo3FB2PoqmSYCVOLAGtzeDZkJm8p3hvGAVNBl5wa6VE8LoYocU"
+        },
+        {
+          "titulo": "Audiomatic - Spin Spirit",
+          "url": "https://soundcloud.com/benniaudiomatic/krama-spin-spirit-audiomatic"
+        },
+        {
+          "titulo": "Ghost Rider & Ranji - Can't sleep",
+          "url": "https://www.youtube.com/watch?time_continue=5&v=jyxjyIWzlmk"
+        },
+        {
+          "titulo": "Phaxe & Ghost Rider - Passion",
+          "url": "https://www.youtube.com/watch?v=S_U1ZOWILtk"
+        },
+        {
+          "titulo": "Phaxe - Change",
+          "url": "https://soundcloud.com/phaxe/phaxe-change-2020"
+        },
+        {
+          "titulo": "Phaxe - Live at Universo Paralello 2019/2020",
+          "url": "https://soundcloud.com/phaxe/phaxe-live-at-universo-paralello-20192020"
+        }
+      ]
+    },
+    {
+      "titulo": "Progressive Psytrance (Psy Prog)",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Egorythmia & Inner State - Abyssia",
+          "url": "https://soundcloud.com/egorythmia/03egorythmiainner-state-abyssia-preview?fbclid=IwAR1TYK2AU__pMyhuVX78BCypGEhCV_tF5nJtydWBfzDoP5s2aZ9pRs6bNQY"
+        },
+        {
+          "titulo": "Egorythmia - Quarantine",
+          "url": "https://soundcloud.com/egorythmia/egorythmia-quarantine-sample"
+        },
+        {
+          "titulo": "Protonica - Assorted Waves 10",
+          "url": "https://soundcloud.com/protonica/assorted-waves-10"
+        },
+        {
+          "titulo": "Braincell/Unknown Reality/Solar Spectrum - The Dance",
+          "url": "https://soundcloud.com/brainalien/solar-spectrum-the-dance?fbclid=IwAR3rBKFpjPbTCfOjRjfW2fsaz2sv23YSgjxpWGB87rMVCBULnirW04McMz8"
+        },
+        {
+          "titulo": "Braincell Lockdown Livestream - Moksha Project",
+          "url": "https://soundcloud.com/brainalien/braincell-lockdown-livestream-moksha-project"
+        },
+        {
+          "titulo": "Braincell Lockdown Livestream - Moksha Project",
+          "url": "https://soundcloud.com/brainalien/braincell-lockdown-livestream-moksha-project"
+        },
+        {
+          "titulo": "Mindbenderz - Sick",
+          "url": "https://soundcloud.com/iono-music/sets/mindbenderz-sick?fbclid=IwAR3rBKFpjPbTCfOjRjfW2fsaz2sv23YSgjxpWGB87rMVCBULnirW04McMz8"
+        },
+        {
+          "titulo": "Noosphere - Vektor (Ectima Remix)",
+          "url": "https://soundcloud.com/ectima/noosphere-vektor-ectima-remix-2019-tesd0300?fbclid=IwAR2cw8ir0Mj6bLI0PkiQmcSACdorocYx9Kphz2TgtCF3GrESxJpPPy4ZN6U"
+        },
+        {
+          "titulo": "Ectima - First Dose Of DMT",
+          "url": "https://soundcloud.com/ectima/ectima-first-dose-of-dmt"
+        },
+        {
+          "titulo": "KADUM - Microorganism",
+          "url": "https://soundcloud.com/kadum/kadum-microorganism"
+        },
+        {
+          "titulo": "Alchemic Strom Vs. Microsillon - Rhythm (KADUM & Koala Remix)",
+          "url": "https://soundcloud.com/kadum/alchemic-strom-vs-microsillon"
+        },
+        {
+          "titulo": "LYKTUM - Mindfulness",
+          "url": "https://soundcloud.com/lyktum/lyktum-mindfulness"
+        }
+      ]
+    }
+  ]
+}
