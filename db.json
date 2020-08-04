@@ -1,0 +1,16 @@
+{
+    "vertentes": [
+        {
+            "id": 1,
+            "nome": "Progressive",
+            "descricao": "Vertente ",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Full On Night",
+            "descricao": "Vertente Fullon ",
+            "cor": "#cbd1ff"
+        }
+    ]
+}

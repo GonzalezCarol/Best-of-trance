@@ -8,57 +8,61 @@ function CadastroVertente() {
     nome: '',
     descricao: '',
     cor: '',
-  }
+  };
   const [vertentes, setVertentes] = useState([]);
   const [values, setValues] = useState(iniValues);
 
-
   function setValue(key, value) {
-
     setValues({
       ...values,
-      [key]: value, 
-    })
+      [key]: value,
+    });
   }
 
   function handleChange(infoEvent) {
     setValue(
       infoEvent.target.getAttribute('name'),
-      infoEvent.target.value
+      infoEvent.target.value,
     );
   }
 
   // ============
 
   useEffect(() => {
-    if(window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias'; 
+    if (window.location.href.includes('localhost')) {
+      const URL = 'http://localhost:8080/vertentes';
       fetch(URL)
-       .then(async (serverResponse) =>{
-        if(serverResponse.ok) {
-          const response = await serverResponse.json();
-          setVertentes(response);
-          return; 
-        }
-        throw new Error('Não foi possível pegar os dados');
-       })
-    }    
+        .then(async (serverResponse) => {
+          if (serverResponse.ok) {
+            const response = await serverResponse.json();
+            setVertentes([
+              ...response,
+            ]);
+            return;
+          }
+          throw new Error('Não foi possível pegar os dados');
+        });
+    }
   }, []);
 
   return (
     <PageDefault>
-      <h1>Cadastro de Categoria: {values.nome}</h1>
+      <h1>
+        Cadastro de Categoria:
+        {values.nome}
+      </h1>
 
       <form onSubmit={function handleSubmit(infoEvent) {
-          infoEvent.preventDefault();
+        infoEvent.preventDefault();
 
-          setVertentes([
-            ...vertentes,
-            values
-          ]);
+        setVertentes([
+          ...vertentes,
+          values,
+        ]);
 
-          setValues(iniValues)
-      }}>
+        setValues(iniValues);
+      }}
+      >
 
         <FormField
           label="Nome da Vertente"
@@ -75,7 +79,6 @@ function CadastroVertente() {
           value={values.descricao}
           onChange={handleChange}
         />
-       
 
         <FormField
           label="Cor"
@@ -85,27 +88,24 @@ function CadastroVertente() {
           onChange={handleChange}
         />
 
-        <button>
+        <button type="button">
           Cadastrar
         </button>
       </form>
-      
 
       <ul>
-        {vertentes.map((vertente, indice) => {
-          return (
-            <li key={`${vertente}${indice}`}>
-              {vertente.titulo}
-            </li>
-          )
-        })}
+        {vertentes.map((vertente) => (
+          <li key={`${vertente.nome}`}>
+            {vertente.titulo}
+          </li>
+        ))}
       </ul>
 
       <Link to="/">
         Ir para home
       </Link>
     </PageDefault>
-  )
+  );
 }
 
 export default CadastroVertente;

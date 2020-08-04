@@ -1,7 +1,8 @@
 import React from 'react';
-import Logo from '../../assets/img/universoparalello.jpg'
+import PropTypes from 'prop-types';
+import Logo from '../../assets/img/universoparalello.jpg';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
-import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
+import { BannerMainContainer, ContentAreaContainer } from './styles';
 
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -17,7 +18,6 @@ export default function BannerMain({
   url,
 }) {
   const youTubeID = getYouTubeId(url);
-  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
 
   return (
     <BannerMainContainer backgroundImage={Logo}>
@@ -36,11 +36,19 @@ export default function BannerMain({
           <VideoIframeResponsive
             youtubeID={youTubeID}
           />
-          <WatchButton>
-            Assistir
-          </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>
     </BannerMainContainer>
   );
 }
+
+BannerMain.defaultProps = {
+  videoDescription: '',
+};
+
+BannerMain.propTypes = {
+  videoTitle: PropTypes.string.isRequired,
+  videoDescription: PropTypes.string,
+  url: PropTypes.string.isRequired,
+
+};
