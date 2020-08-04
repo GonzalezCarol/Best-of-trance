@@ -1,4 +1,6 @@
-# Aluraflix
+# Best of Trance in progress!
+
+Link vercel: https://best-of-trance.vercel.app/
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
 
