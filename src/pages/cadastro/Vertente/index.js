@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import useForm from '../../../hooks/useForm';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 
@@ -9,28 +10,18 @@ function CadastroVertente() {
     descricao: '',
     cor: '',
   };
+
   const [vertentes, setVertentes] = useState([]);
-  const [values, setValues] = useState(iniValues);
 
-  function setValue(key, value) {
-    setValues({
-      ...values,
-      [key]: value,
-    });
-  }
-
-  function handleChange(infoEvent) {
-    setValue(
-      infoEvent.target.getAttribute('name'),
-      infoEvent.target.value,
-    );
-  }
+  const { handleChange, values, clearForm } = useForm(iniValues);
 
   // ============
 
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/vertentes';
+      const URL = window.location.hostname.includes('localhost')
+        ? 'http://localhost:8080/vertentes'
+        : 'https://bestoftrance.herokuapp.com/vertentes';
       fetch(URL)
         .then(async (serverResponse) => {
           if (serverResponse.ok) {
@@ -60,7 +51,7 @@ function CadastroVertente() {
           values,
         ]);
 
-        setValues(iniValues);
+        clearForm();
       }}
       >
 

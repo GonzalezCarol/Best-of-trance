@@ -11,7 +11,7 @@ function CadastroVideo() {
         Cadastrar Categoria
       </Link>
     </PageDefault>
-  )
+  );
 }
 
-export default CadastroVideo; 
+export default CadastroVideo;
