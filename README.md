@@ -1,5 +1,7 @@
 # Best of Trance in progress!
 
+Projeto para avaliar a melhor música eletronica baseado na vertente
+
 Link vercel: https://best-of-trance.vercel.app/
 
 ![Screen Shot 2021-04-12 at 22 18 47](https://user-images.githubusercontent.com/40405334/114482504-10fc9b00-9bdd-11eb-8abd-a0cf19d06593.png)
