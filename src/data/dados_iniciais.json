@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Full On Morning",
-      "cor": "#6BD1FF",
+      "cor": "#d2ff28",
       "videos": [
         {
           "titulo": "O melhor do trance em todas as vertentes",
@@ -39,8 +39,7 @@
         {
           "titulo": "DigiCult vs DNA - Rite Of Passage",
           "url": "https://soundcloud.com/digicult/digicult-vs-dna-rite-of?fbclid=IwAR1CCkPwTbsBBCaG5siDTofY4gpOta7U7WC5NP0zwDFFr-vyAw5hzeqPUd4"
-        } 
-        ,
+        },
         {
           "titulo": "MYRAH - Melodic Scientist",
           "url": "https://www.youtube.com/watch?v=ccSykzVodak&list=PLFn696gJR9aV1nudNhFnWJusNtXrUVivB&pbjreload=101"
@@ -48,8 +47,7 @@
         {
           "titulo": "MYRAH - Dark Sun",
           "url": "https://www.youtube.com/watch?v=mMmL2usFC2A&list=PLFn696gJR9aV1nudNhFnWJusNtXrUVivB&index=4"
-        }
-        ,
+        },
         {
           "titulo": "Indra - Come to India",
           "url": "https://www.youtube.com/watch?v=tvpEj_qXlVk"
@@ -57,12 +55,12 @@
         {
           "titulo": "Indra - Mantra",
           "url": "https://www.youtube.com/watch?v=s0k8QXZoXZk"
-        }           
+        }
       ]
     },
     {
       "titulo": "Full On Night",
-      "cor": "#00C86F",
+      "cor": "#613dc1",
       "videos": [
         {
           "titulo": "Ingrained Instincts - Invent the Future",
@@ -79,11 +77,11 @@
         {
           "titulo": "Uka Uka - Kali",
           "url": "https://www.youtube.com/watch?v=pzxSVwNicGY&list=PLY28-gdUDu3bW__2BAgax10XqLOcAzyQN&index=7"
-        }, 
+        },
         {
           "titulo": "Ajja - Bazinga",
           "url": "https://www.youtube.com/watch?v=iAZ0y8kOY8k&list=PL8sg-hAtsrtYeR-Ky0cRT_AWMonsbgExj"
-        }, 
+        },
         {
           "titulo": "Avalon & Ajja - Vision Serpent",
           "url": "https://www.youtube.com/watch?v=WedNAPe2l80"
@@ -124,7 +122,7 @@
     },
     {
       "titulo": "Forest",
-      "cor": "#9cd33b",
+      "cor": "#258ea6",
       "videos": [
         {
           "titulo": "MUBALI Parvati Records Series Vol 11 30 04 2016",
@@ -178,7 +176,7 @@
     },
     {
       "titulo": "Psycore",
-      "cor": "orange",
+      "cor": "#d2d7df",
       "videos": [
         {
           "titulo": "TZU JAN - Зеркало, Serkalo(210) \\ VA Mysterium Coniunctionis \\ (Biomekanik Master)",
@@ -195,8 +193,7 @@
         {
           "titulo": "AlpsCore - No Rescue [200]",
           "url": "https://soundcloud.com/alpscore/alpscore-no-rescue-200"
-        }
-        ,
+        },
         {
           "titulo": "AlpsCore - Wolvesland [200]",
           "url": "https://soundcloud.com/alpscore/alpscore-wolvesland-200bpm"
@@ -307,7 +304,7 @@
     },
     {
       "titulo": "Progressive Psytrance (Psy Prog)",
-      "cor": "#6b5be2",
+      "cor": "#ff3864",
       "videos": [
         {
           "titulo": "Egorythmia & Inner State - Abyssia",
